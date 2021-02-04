@@ -1,2 +1,2 @@
 # BeautyBits
-BeautyBits
+Special ad version
